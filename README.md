@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+### Mengimplementasikan gambar logo flutter
+![Screenshoot firebase](images/1.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Mengimplementasikan gambar animasi logo flutter yang bergerak dari kecil membesar
+![Screenshoot firebase](images/1.gif)
+![Screenshoot firebase](images/2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Mengimplementasikan gambar animasi logo flutter yang bergerak dari kecil membesar dengan memecah berbagai class 
+![Screenshoot firebase](images/3.png)
